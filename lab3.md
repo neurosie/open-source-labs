@@ -1,6 +1,6 @@
 ## Part 0
-![latex 1](images/latex 1.png)  
-![latex 2](images/latex 2.png)
+![latex 1](images/latex%201.png)  
+![latex 2](images/latex%202.png)
 
 ## Part 1
 ### Stats
@@ -46,7 +46,7 @@ GitStats gives a slightly different number for the total lines of code, but the 
 * [Organizer](https://www.youtube.com/watch?v=RNQ1Mi7HG5M)
 * [RedArmyApp](https://www.youtube.com/watch?v=nFkt7IjXUms)
 * [Pipeline](https://www.youtube.com/watch?v=_rcXZxHJkRo)
-* [Open circuits (screenshot)](images/gource open circuits.png)
+* [Open circuits (screenshot)](images/gource%20open%20circuits.png)
 
 ## Part 2
 [markdown.py](markdown/markdown.py)  
