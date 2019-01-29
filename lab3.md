@@ -1,6 +1,6 @@
 ## Part 0
-![](images/latex 1.png)  
-![](images/latex 2.png)
+![latex 1](images/latex 1.png)  
+![latex 2](images/latex 2.png)
 
 ## Part 1
 ### Stats
